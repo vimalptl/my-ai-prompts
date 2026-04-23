@@ -10,8 +10,8 @@ import {
 
 const developmentBearerToken = 'replace-with-development-bearer-token';
 const serverUrl = 'http://localhost:8888';
-const serverUrl2 = 'https://securedev.republicindemnity.com';
-const serverUrl3 = 'https://securedev.republicindemnity.com';
+const serverUrl2 = 'http://localhost:8888';
+const serverUrl3 = 'http://localhost:8888';
 
 applyDefaultHeaders({
   bearerToken: developmentBearerToken,
