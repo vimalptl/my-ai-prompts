@@ -1,9 +1,9 @@
 ---
-name: republic-react-project
+name: my-react-project
 description: "Use when: creating or scaffolding a baseline React 18 project in this workspace using Webpack 5, PrimeReact, React Router v6, Axios, React Hook Form, shared layouts, environment-specific services, utils, and global styles. Ignore Vue migration tasks and focus only on baseline project setup"
 ---
 
-# Republic React Project
+# My React Project
 
 ## Purpose
 
